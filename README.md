@@ -1,4 +1,4 @@
-# 💌 Hot Air Mail — A Letter for Nikola
+# 💌 Hot Air Mail - A Letter for Nikola
 
 > A thoughtful web application designed for a long-distance relationship, allowing you to write digital letters paired with photos and package them into a nostalgic, printable airmail postcard featuring a custom QR-code "stamp."
 
@@ -27,4 +27,4 @@
 
 ## 👩‍💻 About the Creator
 
-Frontend developer in training, based in Quezon City. I'm a 4th-year college student at **Eulogio "Amang" Rodriguez Institute of Science and Technology (EARIST)**, continuously learning and building web interfaces that are fast, accessible, and not painful to use—while exploring UI design and cybersecurity fundamentals along the way! 🚀
+Frontend developer in training, based in Quezon City. I'm a 4th-year college student at **Eulogio "Amang" Rodriguez Institute of Science and Technology (EARIST)**, continuously learning and building web interfaces that are fast, accessible, and not painful to use, while exploring UI design and cybersecurity fundamentals along the way! 🚀
